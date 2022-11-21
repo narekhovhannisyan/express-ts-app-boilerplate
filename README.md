@@ -1,6 +1,6 @@
-# crypto-vero-backend
+# express-ts-app-boilerplate
 
-Server side application for CryptoVero.
+Server side application for express-ts-app-boilerplate.
 
  # Table of Contents
 
