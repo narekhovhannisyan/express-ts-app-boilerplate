@@ -1,13 +1,13 @@
-# Contributing to crypto-vero-backend
+# Contributing to express-ts-app-boilerplate
 
 ## Code Contributions
 
 #### Step 1: Clone
 
-Clone the project on [GitHub](https://github.com/CryptoVero/crypto-vero-backend.git)
+Clone the project on [GitHub](https://github.com/narekhovhannisyan/express-ts-app-boilerplate.git)
    
    ```bash
-   $ git clone https://github.com/CryptoVero/crypto-vero-backend.git
+   $ git clone https://github.com/narekhovhannisyan/express-ts-app-boilerplate.git
    $ cd crypto-vero-backend
    ```
    
@@ -103,4 +103,4 @@ The commit message should describe what changed and why.
         - add JSDoc on existing function
       ```
 
-*[⬅️ back to the root](/README.md#crypto-vero-backend)*      
+*[⬅️ back to the root](/README.md#express-ts-app-boilerplate)*      
