@@ -6,4 +6,4 @@
 * `npm run test-watch` - runs tests in watch mode.
 * `npm run test-unit` - runs unit tests.
 
-*[⬅️ back to the root](/README.md#crypto-vero-backend)*
+*[⬅️ back to the root](/README.md#express-ts-app-boilerplate)*
