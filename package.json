@@ -1,6 +1,6 @@
 {
-  "name": "crypto-vero-backend",
-  "description": "Crypto Vero Backend application.",
+  "name": "express-ts-app-boilerplate",
+  "description": "express-ts-app-boilerplate application.",
   "version": "0.0.0",
   "author": {
     "name": "Narek Hovhannisyan",
@@ -8,7 +8,7 @@
     "url": "https://github.com/narekhovhannisyan"
   },
   "bugs": {
-    "url": "https://github.com/CryptoVero/crypto-vero-backend/issues"
+    "url": "https://github.com/narekhovhannisyan/express-ts-app-boilerplate/issues"
   },
   "contributors": [
     {
@@ -39,23 +39,20 @@
     "typescript": "4.8.4"
   },
   "engines": {
-    "node": "16.18.0",
+    "node": "18.12.0",
     "npm": "8.19.2"
   },
-  "homepage": "https://github.com/CryptoVero/crypto-vero-backend#readme",
+  "homepage": "https://github.com/narekhovhannisyan/express-ts-app-boilerplate#readme",
   "keywords": [
     "application",
     "backend",
-    "express",
-    "crypto",
-    "vero",
-    "cryptovero"
+    "express"
   ],
   "main": "src/bin/www.ts",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/CryptoVero/crypto-vero-backend"
+    "url": "https://github.com/narekhovhannisyan/express-ts-app-boilerplate"
   },
   "scripts": {
     "build": "tsc",
